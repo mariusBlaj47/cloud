@@ -1,0 +1,10 @@
+{
+  "name": "tema2",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^3.5.4"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
